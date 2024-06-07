@@ -74,8 +74,6 @@ Entity Relationship Diagram:
 
   ![ERD](./assets/ERD_balconyGrown.pdf)
 
-
-
 ## Design
 
 ### Colors
